@@ -1,6 +1,6 @@
 {
   "name": "hfd.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The JS/TS API wrapper for HomeForDiscord made by BrydenIsNotSmart.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "test"
+    "url": "https://github.com/BrydenIsNotSmart/hfd.js"
   },
   "keywords": [
     "hfd.gg",
