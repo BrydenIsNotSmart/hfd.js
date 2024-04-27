@@ -1,0 +1,22 @@
+{
+  "name": "hfd.js",
+  "version": "1.0.0",
+  "description": "The JS/TS API wrapper for HomeForDiscord made by BrydenIsNotSmart.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "test"
+  },
+  "keywords": [
+    "hfd.gg",
+    "hfd.js",
+    "homefordiscord",
+    "botsfordiscord",
+    "serversfordiscord"
+  ],
+  "author": "Bryden Calaway",
+  "license": "ISC"
+}
